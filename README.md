@@ -1,5 +1,5 @@
 # Airline Passenger Satisfaction
-Dataset used on customer satisfaction scores of 120,000+ airline passengers, including additional information about each passenger, passenger flight and type of trip, and evaluation of factors such as cleanliness, comfort, service and overall experience.
+Dataset used on customer satisfaction scores of 120,000+ airline passengers, including additional information about each passenger, passenger flight and type of trip, and evaluation of factors such as cleanliness, comfort, service and overall experience. The full dataset can be downloaded here: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.
 
 ## Column Description:
 - ID: ID of each passenger (pax), which is unique (nothing is the same).
