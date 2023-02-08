@@ -1,5 +1,9 @@
 # Airline Passenger Satisfaction
-Dataset used on customer satisfaction scores of 120,000+ airline passengers, including additional information about each passenger, passenger flight and type of trip, and evaluation of factors such as cleanliness, comfort, service and overall experience. The full dataset can be downloaded here: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.
+
+Predicting airline passenger satisfaction involves using statistical methods and Machine Learning algorithms to analyze factors such as flight time, seat comfort, in-flight service, on-time performance, etc., to predict airline passenger satisfaction levels. Airlines can then use this information to improve services based on their passenger experience. Several algorithms that will be used for this purpose are based on the highest accuracy of the results from Lazy Predict, so the accuracy of the model used is likely suitable. The full dataset can be downloaded here: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.
+
+# Objective
+The main objective of predicting airline passenger satisfaction is to improve passenger experience, reduce customer churn, increase customer loyalty, and optimize customer service (CS) resources.
 
 ## Column Description:
 - ID: ID of each passenger (pax), which is unique (nothing is the same).
