@@ -1,4 +1,4 @@
-# Airline Passenger Satisfaction
+# Airline Passenger Satisfaction Prediction
 
 Predicting airline passenger satisfaction involves using statistical methods and Machine Learning algorithms to analyze factors such as flight time, seat comfort, in-flight service, on-time performance, etc., to predict airline passenger satisfaction levels. Airlines can then use this information to improve services based on their passenger experience. Several algorithms that will be used for this purpose are based on the highest accuracy of the results from Lazy Predict, so the accuracy of the model used is likely suitable. The full dataset can be downloaded here: https://www.kaggle.com/datasets/mysarahmadbhat/airline-passenger-satisfaction.
 
